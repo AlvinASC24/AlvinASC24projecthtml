@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.picture_container{
+    display: flexbox;
+    ;
+}
+
+nav{
+    color: black;
+    text-align: center;
+    size: 200px;
+}
